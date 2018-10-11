@@ -38,6 +38,7 @@ class Scraper
         puts "Title: #{course.title}"
         puts "  Schedule: #{course.schedule}"
         puts "  Description: #{course.description}"
+        puts " "
       end
     end
   end
